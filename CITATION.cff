@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ho"
+  given-names: "Jiacang"
+  orcid: "https://orcid.org/0000-0001-6850-5193"
+- family-names: "Lee"
+  given-names: "Byung-Gook"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Kang"
+  given-names: "Dae-Ki"
+  orcid: "https://orcid.org/0000-0002-4147-2835"
+title: "Uni-image: universal image construction for robust neural model"
+date-released: "2020"
+url: "https://github.com/canboy123/uip"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Ho"
+    given-names: "Jiacang"
+    orcid: "https://orcid.org/0000-0001-6850-5193"
+  - family-names: "Lee"
+    given-names: "Byung-Gook"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Kang"
+    given-names: "Dae-Ki"
+    orcid: "https://orcid.org/0000-0002-4147-2835"
+  title: "Uni-image: universal image construction for robust neural model"
+  year: 2020
+  journal: "Neural Networks"
+  volume: 128
+  start: 279 # First page number
+  end: 287
+  publisher: "Elsevier"
+
+  @article{ho2020uni,
+  title={Uni-image: universal image construction for robust neural model},
+  author={Ho, Jiacang and Lee, Byung-Gook and Kang, Dae-Ki},
+  journal={Neural Networks},
+  volume={128},
+  pages={279--287},
+  year={2020},
+  publisher={Elsevier}
+}
