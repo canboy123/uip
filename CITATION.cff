@@ -32,13 +32,3 @@ preferred-citation:
   start: 279 # First page number
   end: 287
   publisher: "Elsevier"
-
-  @article{ho2020uni,
-  title={Uni-image: universal image construction for robust neural model},
-  author={Ho, Jiacang and Lee, Byung-Gook and Kang, Dae-Ki},
-  journal={Neural Networks},
-  volume={128},
-  pages={279--287},
-  year={2020},
-  publisher={Elsevier}
-}
